@@ -1,3 +1,5 @@
+package javaLearning.cap02;
+
 public class Ejemplo02_04 {
 	public static void main(String[] args) {
 		int divisionEntera = 7 / 2;

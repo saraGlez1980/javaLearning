@@ -1,3 +1,5 @@
+package javaLearning.cap02;
+
 public class Ejemplo02_07 {
 	public static void main(String[] args) {
 		
@@ -16,6 +18,8 @@ public class Ejemplo02_07 {
 
 	private static boolean siempreFalso() {
 		System.out.println("siempreFalso");
+		
 		return false;
 	}
+	
 }

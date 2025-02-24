@@ -1,3 +1,5 @@
+package javaLearning.cap01;
+
 /* Ejercicio 1.2 - Escribe un programa que imprima por pantalla 
  * estas dos frases: “La vida es tan buena maestra,” y 
  * “que si no aprendes la lección te la repite.”.

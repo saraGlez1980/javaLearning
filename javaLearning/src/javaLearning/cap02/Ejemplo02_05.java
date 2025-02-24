@@ -1,12 +1,4 @@
-
-
-
-
-
-
-
-
-
+package javaLearning.cap02;
 
 public class Ejemplo02_05 {
 	public static void main(String[] args) {

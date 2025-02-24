@@ -1,3 +1,5 @@
+package javaLearning.cap02;
+
 public class Ejemplo02_06 {
 	public static void main(String[] args) {
 		int x = 3;

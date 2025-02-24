@@ -1,13 +1,4 @@
-
-
-
-
-
-
-
-
-
-
+package javaLearning.cap02;
 public class Ejemplo02_02 {
 	public static void main(String[] args) {
 		// Los argumentos que recibimos son Strings. 

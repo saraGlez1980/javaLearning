@@ -1,4 +1,6 @@
-public class Ejercicio02_02 {
+package javaLearning.cap02;
+
+public class Ejemplo02_02a {
 	
 	private static int sumaFrutas(int a, int b) {
 		return a+b;

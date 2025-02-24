@@ -1,3 +1,5 @@
+package javaLearning.cap02;
+
 public class Ejemplo02_03 {
     public static void main(String[] args) {
         int numManzanas = Integer.valueOf(args[0]);
