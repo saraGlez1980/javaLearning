@@ -1,8 +1,16 @@
-package javaLearning.cap03;
+
+
+
+
+
+
+
+
 
 public class Ejemplo03_02 {
     public static void main(String[] args) {
-        int temp = Integer.valueOf(args[0]); 
+        int temp = Integer.valueOf(args[0]);
+        
         if (haceFrio(temp)) {
             ponerCalefaccion();
             abrigarse();
