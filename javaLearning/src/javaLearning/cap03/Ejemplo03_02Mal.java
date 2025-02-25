@@ -1,11 +1,20 @@
-package javaLearning.cap03;
+
+
+
+
+
+
+
+
+
+
 
 public class Ejemplo03_02Mal {
     public static void main(String[] args) {
         int temp = Integer.valueOf(args[0]); 
-        if (haceFrio(temp))
-            ponerCalefaccion();
-            abrigarse();
+        if (haceFrio(temp)) ponerCalefaccion();
+        
+        abrigarse();
     }
 
     private static boolean haceFrio(int temp) {
