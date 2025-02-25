@@ -5,7 +5,7 @@
 
 public class Ejercicio03_04 {
 	public static void main(String[] args) {
-		// if args
+		
 	} // main
 
 	private static int calculaDias(int mes) {
