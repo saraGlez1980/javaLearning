@@ -1,6 +1,12 @@
-package javaLearning.cap03;
+
+
+
+
+
+
 
 public class Ejemplo03_03 {
+	
     private static final int TEMP_FRIO = 15;
 
     public static void main(String[] args) {
