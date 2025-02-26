@@ -1,5 +1,14 @@
 package javaLearning.cap04;
 
+
+
+
+
+
+
+
+
+
 public class Ejemplo04_01 {
 	public static void main(String[] args) {
 		// El bucle "for each" (aunque realmente se escribe for), recorre

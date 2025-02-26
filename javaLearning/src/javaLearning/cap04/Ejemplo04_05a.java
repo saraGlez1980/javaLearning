@@ -1,4 +1,11 @@
-package javaLearning.cap04;
+
+
+
+
+
+
+
+
 
 public class Ejemplo04_05a {
 	// Acuérdate de usar constantes
@@ -13,7 +20,7 @@ public class Ejemplo04_05a {
 		do { // condición de terminación
 			System.out.println(i + ")" + args[i]);
 			i++; // actualización
-		} while (!args[i].equals(FIN) && i < args.length);
+		} while ( i < args.length && !args[i].equals(FIN));
 		
 		// Como la i fue declarada fuera del bucle, aquí aún podemos usarla.
 		System.out.println("\"fin\" estaba en la posición nº " + i);

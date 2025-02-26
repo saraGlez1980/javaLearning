@@ -1,4 +1,12 @@
-package javaLearning.cap04;
+//package javaLearning.cap04;
+
+
+
+
+
+
+
+
 
 public class Ejemplo04_04 {
 	// Acuérdate de usar constantes
